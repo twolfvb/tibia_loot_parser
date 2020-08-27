@@ -19,4 +19,5 @@ from . import views
 
 urlpatterns = [
     path('', views.loot_landing, name='loot_landing'),
+    path('tibia_loot/', views.loot_landing, name='loot_landing'),
 ]

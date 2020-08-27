@@ -1,0 +1,30 @@
+Session data: From 2020-08-26, 18:06:42 to 2020-08-26, 19:18:17
+Session: 01:11h
+Loot Type: Market
+Loot: 535,232
+Supplies: 514,770
+Balance: 20,462
+Don Hams
+    Loot: 92,293
+    Supplies: 208,322
+    Balance: -116,029
+    Damage: 50,701
+    Healing: 302,910
+Gusa Class (Leader)
+    Loot: 300
+    Supplies: 89,280
+    Balance: -88,980
+    Damage: 923,694
+    Healing: 4,854
+Pescao Apanao
+    Loot: 99,923
+    Supplies: 156,060
+    Balance: -56,137
+    Damage: 663,828
+    Healing: 534,465
+Zeta the Bird
+    Loot: 342,716
+    Supplies: 61,108
+    Balance: 281,608
+    Damage: 408,061
+    Healing: 73,195
